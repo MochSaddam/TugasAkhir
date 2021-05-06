@@ -1,0 +1,24 @@
+TUGAS AKHIR
+Oleh:
+Moch. Saddam Jawahier
+XIRPL1/20
+
+Syarat :
+Tugas akhir XI RPL 1
+deadline 3-5 mei 2021
+perseorangan
+project + laporan
+1. buatlah sebuah aplikasi web menggunakan php dengan database mysql dengan framework penunjang CI boleh CI 3 maupun 4.
+2. tema web ditentukan sendiri. minimal terdiri dari
+a. interface user (pelanggan etc)
+b. interface login
+c. interface admin (karyawan etc)
+d interface super admin(you)
+e. terdapat transaksi
+f. terdapat cetak
+g. boleh menambahkan fitur lain
+jika ada pertanyaan bisa didiskusikan dl atau bertanya japri ke saya atau di grup.
+3. laporan bukan proses pembuatan tetapi lebih kepada penggunaan web anda buat (seperti buku manual)
+terima kasih
+
+--SELESAI--
